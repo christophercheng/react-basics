@@ -1,0 +1,521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"handle",
+				"handleRate"
+			],
+			[
+				"P",
+				"PAUSE_5SECS"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"decre",
+				"decrementProgressAction"
+			],
+			[
+				"Car",
+				"CardBlock"
+			],
+			[
+				"ad",
+				"Administrator"
+			],
+			[
+				"expandColl",
+				"expandCollapseFN"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "import React, { Component } from 'react';\nimport logo from './logo.svg';\nimport './App.css',\nclass App extends Component {\n  render() {\n    return (\n      <div className=\"App\">\n        <header className=\"App-header\">\n          <img src={logo} className=\"App-logo\" alt=\"logo\" />\n          <h1 className=\"App-title\">Welcome to React</h1>\n        </header>\n        <p className=\"App-intro\">\n          To get started, edit <code>src/App.js</code> and save to reload.\n        </p>\n      </div>\n    );\n  }\n}\n\nexport default App;\n",
+			"file": "src/App.js",
+			"file_size": 524,
+			"file_write_time": 131583695948241468,
+			"settings":
+			{
+				"buffer_size": 523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".eslintrc",
+			"settings":
+			{
+				"buffer_size": 587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 444,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/ESLint/ESLint.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Javascript.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/ESLint/ESLint.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 209.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"window.set_layout({'cols': [0,0.33333333,0.66666666,1],'rows': [0.0,0.5,1.0],'cells': [[0,0,1,1],[1,0,2,1],[2,0,3,1],[0,1,1,2],[1,1,2,2],[2,1,3,2]]})"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ccheng/Dev/javascript/react/react-basics",
+		"/Users/ccheng/Dev/javascript/react/react-basics/src"
+	],
+	"file_history":
+	[
+		"/Users/ccheng/Dev/javascript/react/react-basics/src/index.js",
+		"/Users/ccheng/Dev/javascript/react/react-basics/package.json",
+		"/Users/ccheng/Dev/javascript/react/react-basics/src/App.js",
+		"/Users/ccheng/Dev/javascript/react/react-basics/.eslintrc",
+		"/Users/ccheng/Dev/javascript/react/react-basics/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/warn-once.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/redux/colors_reducer.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/stylesheets/menu.css",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/index.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/lib/array-helpers.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/.eslintrc",
+		"/Users/ccheng/Dev/javascript/react/colorlist/package.json",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/ui/RouterMenu.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/app.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/stylesheets/menu.scss",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/lib/my-array-helpers.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/redux/store_factory.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/stylesheets/ColorList.scss",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/ui/ColorList.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/ui/ColorDetails.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/ui/Color.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/Containers.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/redux/ColorData.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/pages.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/redux/action_creators.js",
+		"/Users/ccheng/Dev/javascript/react/TestingTest/__test__/listadd.test.js",
+		"/Users/ccheng/Downloads/RecoveryFiles/RecoveryFiles/javascript/create_test/learn-react-pdf/node_modules/react-scripts/scripts/test.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/__tests__/components/__snapshots__/Color.ui.test.js.snap",
+		"/Users/ccheng/Dev/javascript/react/colorlist/__tests__/components/Color.ui.test.js",
+		"/Users/ccheng/Dev/javascript/react/TestingTest/ListAdd.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/__tests__/components/ColorListContainer.test.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/__tests__/components/ColorList.test.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/__tests__/actions-spec.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/ProviderlessContainers.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/ui/__mocks__/ColorList.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/__tests__/components/star.test.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/__tests__/components/starRating.test.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/HOC/Expandable.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/__tests__/components/expandable.test.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/__tests__/global.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/__tests__/store/reducers/color.test.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/ui/StarRating.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/ui/Star.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/ui/AddColorForm.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/redux/color_reducer.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/stylesheets/Star.css",
+		"/Users/ccheng/Dev/javascript/react/colorlist/.gitignore",
+		"/Users/ccheng/Dev/javascript/react/colorlist/yarn-error.log",
+		"/Users/ccheng/Dev/javascript/react/colorlist/global.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/coverage/lcov-report/src/index.html",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/components/ui/sort_menu.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/stylesheets/Color.css",
+		"/Users/ccheng/Dev/javascript/react/colorlist/public/index.html",
+		"/Users/ccheng/Dev/javascript/react/colorlist/public/manifest.json",
+		"/Users/ccheng/Dev/javascript/react/colorlist/yarn.lock",
+		"/Users/ccheng/Dev/javascript/react/colorlist/__tests__/color.test.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/Containers.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/Color.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/sort_menu.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/AddColorForm.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/ColorList.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/app.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/app_w_redux.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/Star.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/StarRating.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/redux/array-helpers.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/stylesheets/globals.scss",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/App.scss",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/stylesheets/AddColorForm.css",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/stylesheets/AddColorForm.scss",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/stylesheets/Color.scss",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/stylesheets/App.scss",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/stylesheets/Star.scss",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/App_wo_redux.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/stylesheets/menu.scss",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/redux/constants.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/reducers/test.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/redux/array-helpers",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/utils/array-helpers.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/addcolorform_wo_redux.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/App.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/.babelrc",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/testing/testMiddleware.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/redux/sort_reducer.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/redux/redux_storeFactory.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/redux/redux_store.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/reducers/color_reducer.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/reducers/sort_reducer.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/ColorData.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/reducers/colors_reducer.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/redux_store.js",
+		"/Users/ccheng/Library/Application Support/Sublime Text 3/Packages/User/ES6.sublime-build",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/constants.js",
+		"/Users/ccheng/Dev/javascript/react/colorlist/src/index.jsx",
+		"/Users/ccheng/Dev/javascript/react/LearnReactPDF/testing/test.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/components/TemplateContainer.jsx",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/components/Template.jsx",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/components/account/ProfilePage.jsx",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/components/shared/Sidebar.jsx",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/components/shared/Header.jsx",
+		"/Users/ccheng/Dev/javascript/react/musiclist/node_modules/async/groupByLimit.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/actions/progress.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/index.jsx",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/components/account/LoginPage.jsx",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/components/home/HomePage.jsx",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/components/shared/DevTools.jsx",
+		"/Users/ccheng/Dev/javascript/react/musiclist/routes/api/users.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/package.json",
+		"/Users/ccheng/Dev/javascript/react/musiclist/.eslintrc",
+		"/Users/ccheng/Dev/javascript/react/musiclist/.babelrc",
+		"/Users/ccheng/Dev/javascript/react/musiclist/models/user.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/routes/api/authentication.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/routes/index.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/routes/api/index.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/css/musiclist.scss",
+		"/Users/ccheng/Dev/javascript/react/musiclist/webpack.config.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/app.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/reducers/progress.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/components/home/HomePageContainer.jsx",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/store/index.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/views/index.ejs",
+		"/Users/ccheng/Dev/javascript/react/musiclist/routes/api/users.test.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/src/testcomponent.jsx",
+		"/Users/ccheng/Dev/javascript/react/musiclist/routes/api/.eslintrc",
+		"/Users/ccheng/Dev/javascript/react/musiclist/test.js",
+		"/Users/ccheng/Dev/javascript/react/musiclist/views/error.ejs",
+		"/Users/ccheng/Dev/javascript/react/musiclist/routes/users.js",
+		"/Users/ccheng/Dev/javascript/yarntest/index.js",
+		"/Users/ccheng/Dev/javascript/yarntest/package.json"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": ".eslintrc",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 292.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/ES6.sublime-build",
+	"project": "react-basics.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wo",
+				"node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/warn-once.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
